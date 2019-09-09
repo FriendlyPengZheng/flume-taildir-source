@@ -1,0 +1,233 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AGENT_STAT_LOG_NAME	TaildirSourceConfigurationConstants.java	/^  public static final String AGENT_STAT_LOG_NAME = "agentStatLogName";$/;"	f	class:TaildirSourceConfigurationConstants
+AGENT_STAT_LOG_SWITCH_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final String AGENT_STAT_LOG_SWITCH_INTERVAL = "agentStatLogSwitchInterval";$/;"	f	class:TaildirSourceConfigurationConstants
+AGENT_VERSION	TaildirSourceConfigurationConstants.java	/^  public static final String AGENT_VERSION = "agentVersion";$/;"	f	class:TaildirSourceConfigurationConstants
+ARCHIVE_SENT_DIR_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final String ARCHIVE_SENT_DIR_INTERVAL = "archiveSentDirInterval";$/;"	f	class:TaildirSourceConfigurationConstants
+BATCH_SIZE	TaildirSourceConfigurationConstants.java	/^  public static final String BATCH_SIZE = "batchSize";$/;"	f	class:TaildirSourceConfigurationConstants
+BUFFER_SIZE	TailFile.java	/^  private static final int BUFFER_SIZE = 8192;$/;"	f	class:TailFile	file:
+BYTE_CR	TailFile.java	/^  private static final byte BYTE_CR = (byte) 13;$/;"	f	class:TailFile	file:
+BYTE_NL	TailFile.java	/^  private static final byte BYTE_NL = (byte) 10;$/;"	f	class:TailFile	file:
+BYTE_OFFSET_HEADER	TaildirSourceConfigurationConstants.java	/^  public static final String BYTE_OFFSET_HEADER = "byteOffsetHeader";$/;"	f	class:TaildirSourceConfigurationConstants
+BYTE_OFFSET_HEADER_KEY	TaildirSourceConfigurationConstants.java	/^  public static final String BYTE_OFFSET_HEADER_KEY = "byteoffset";$/;"	f	class:TaildirSourceConfigurationConstants
+Builder	ReliableTaildirEventReader.java	/^  public static class Builder {$/;"	c	class:ReliableTaildirEventReader
+CACHE_PATTERN_MATCHING	TaildirSourceConfigurationConstants.java	/^  public static final String CACHE_PATTERN_MATCHING = "cachePatternMatching";$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULE_ARCHIVE_SENT_DIR_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final int DEFAULE_ARCHIVE_SENT_DIR_INTERVAL = 3600*1000;$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_AGENT_STAT_LOG_NAME	TaildirSourceConfigurationConstants.java	/^  public static final String DEFAULT_AGENT_STAT_LOG_NAME = "agentStatLog";$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_AGENT_STAT_LOG_SWITCH_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final int DEFAULT_AGENT_STAT_LOG_SWITCH_INTERVAL = 1;$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_AGENT_VERSION	TaildirSourceConfigurationConstants.java	/^  public static final String DEFAULT_AGENT_VERSION = "version-unknow(based on flume1.7.0)";$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_AGENT_WRITE_STAT_LOG_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final int DEFAULT_AGENT_WRITE_STAT_LOG_INTERVAL = 60000;$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_BATCH_SIZE	TaildirSourceConfigurationConstants.java	/^  public static final int DEFAULT_BATCH_SIZE = 100;$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_BYTE_OFFSET_HEADER	TaildirSourceConfigurationConstants.java	/^  public static final boolean DEFAULT_BYTE_OFFSET_HEADER = false;$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_CACHE_PATTERN_MATCHING	TaildirSourceConfigurationConstants.java	/^  public static final boolean DEFAULT_CACHE_PATTERN_MATCHING = true;$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_DELETE_SENT_DIR_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final int DEFAULT_DELETE_SENT_DIR_INTERVAL = 7;$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_FILENAME_HEADER_KEY	TaildirSourceConfigurationConstants.java	/^  public static final String DEFAULT_FILENAME_HEADER_KEY = "file";$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_FILE_HEADER	TaildirSourceConfigurationConstants.java	/^  public static final boolean DEFAULT_FILE_HEADER = false;$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_FILE_SWITCH_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final int DEFAULT_FILE_SWITCH_INTERVAL = 20000;$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_FLUME_LOG_PATH	TaildirSourceConfigurationConstants.java	/^  public static final String DEFAULT_FLUME_LOG_PATH = "\/home\/tms\/flume\/logs";$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_IDLE_TIMEOUT	TaildirSourceConfigurationConstants.java	/^  public static final int DEFAULT_IDLE_TIMEOUT = 120000;$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_POSITION_FILE	TaildirSourceConfigurationConstants.java	/^  public static final String DEFAULT_POSITION_FILE = "\/.flume\/taildir_position.json";$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_SKIP_TO_END	TaildirSourceConfigurationConstants.java	/^  public static final boolean DEFAULT_SKIP_TO_END = false;$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_SOURCE_PATH	TaildirSourceConfigurationConstants.java	/^  public static final String DEFAULT_SOURCE_PATH = "\/home\/tms\/inbox";$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_TARGET_PATH	TaildirSourceConfigurationConstants.java	/^  public static final String DEFAULT_TARGET_PATH = "\/home\/tms\/sent";$/;"	f	class:TaildirSourceConfigurationConstants
+DEFAULT_WRITE_POS_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final int DEFAULT_WRITE_POS_INTERVAL = 3000;$/;"	f	class:TaildirSourceConfigurationConstants
+DELETE_SENT_DIR_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final String DELETE_SENT_DIR_INTERVAL = "deleteSentDirInterval";$/;"	f	class:TaildirSourceConfigurationConstants
+FILENAME_HEADER	TaildirSourceConfigurationConstants.java	/^  public static final String FILENAME_HEADER = "fileHeader";$/;"	f	class:TaildirSourceConfigurationConstants
+FILENAME_HEADER_KEY	TaildirSourceConfigurationConstants.java	/^  public static final String FILENAME_HEADER_KEY = "fileHeaderKey";$/;"	f	class:TaildirSourceConfigurationConstants
+FILE_GROUPS	TaildirSourceConfigurationConstants.java	/^  public static final String FILE_GROUPS = "filegroups";$/;"	f	class:TaildirSourceConfigurationConstants
+FILE_GROUPS_PREFIX	TaildirSourceConfigurationConstants.java	/^  public static final String FILE_GROUPS_PREFIX = FILE_GROUPS + ".";$/;"	f	class:TaildirSourceConfigurationConstants
+FILE_SWITCH_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final String FILE_SWITCH_INTERVAL = "fileSwitchInterval";$/;"	f	class:TaildirSourceConfigurationConstants
+FLUME_LOG_PATH	TaildirSourceConfigurationConstants.java	/^  public static final String FLUME_LOG_PATH = "flumeLogPath";$/;"	f	class:TaildirSourceConfigurationConstants
+FS	TaildirMatcher.java	/^  private static final FileSystem FS = FileSystems.getDefault();$/;"	f	class:TaildirMatcher	file:
+HEADERS_PREFIX	TaildirSourceConfigurationConstants.java	/^  public static final String HEADERS_PREFIX = "headers.";$/;"	f	class:TaildirSourceConfigurationConstants
+IDLE_TIMEOUT	TaildirSourceConfigurationConstants.java	/^  public static final String IDLE_TIMEOUT = "idleTimeout";$/;"	f	class:TaildirSourceConfigurationConstants
+LineResult	TailFile.java	/^    public LineResult(boolean lineSepInclude, byte[] line) {$/;"	m	class:TailFile.LineResult
+LineResult	TailFile.java	/^  private class LineResult {$/;"	c	class:TailFile
+NEED_READING	TailFile.java	/^  private static final int NEED_READING = -1;$/;"	f	class:TailFile	file:
+POSITION_FILE	TaildirSourceConfigurationConstants.java	/^  public static final String POSITION_FILE = "positionFile";$/;"	f	class:TaildirSourceConfigurationConstants
+PositionWriterRunnable	TaildirSource.java	/^  private class PositionWriterRunnable implements Runnable {$/;"	c	class:TaildirSource
+ReliableTaildirEventReader	ReliableTaildirEventReader.java	/^  private ReliableTaildirEventReader(Map<String, String> filePaths,$/;"	m	class:ReliableTaildirEventReader	file:
+ReliableTaildirEventReader	ReliableTaildirEventReader.java	/^public class ReliableTaildirEventReader implements ReliableEventReader {$/;"	c
+SKIP_TO_END	TaildirSourceConfigurationConstants.java	/^  public static final String SKIP_TO_END = "skipToEnd";$/;"	f	class:TaildirSourceConfigurationConstants
+SOURCE_PATH	TaildirSourceConfigurationConstants.java	/^  public static final String SOURCE_PATH = "sourcePath";$/;"	f	class:TaildirSourceConfigurationConstants
+TARGET_PATH	TaildirSourceConfigurationConstants.java	/^  public static final String TARGET_PATH = "targetPath";$/;"	f	class:TaildirSourceConfigurationConstants
+TailFile	TailFile.java	/^  public TailFile(File file, Map<String, String> headers, long inode, long pos)$/;"	m	class:TailFile
+TailFile	TailFile.java	/^public class TailFile {$/;"	c
+TailFileCron	TailFileCron.java	/^public class TailFileCron {$/;"	c
+TailFilePlugin	TailFilePlugin.java	/^public class TailFilePlugin {$/;"	c
+TailFilePluginRunnable	TaildirSource.java	/^  private class TailFilePluginRunnable implements Runnable {$/;"	c	class:TaildirSource
+TaildirMatcher	TaildirMatcher.java	/^  TaildirMatcher(String fileGroup, String filePattern, boolean cachePatternMatching) {$/;"	m	class:TaildirMatcher
+TaildirMatcher	TaildirMatcher.java	/^public class TaildirMatcher {$/;"	c
+TaildirSource	TaildirSource.java	/^public class TaildirSource extends AbstractSource implements$/;"	c
+TaildirSourceConfigurationConstants	TaildirSourceConfigurationConstants.java	/^public class TaildirSourceConfigurationConstants {$/;"	c
+WRITE_AGENT_STAT_LOG_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final String WRITE_AGENT_STAT_LOG_INTERVAL = "writeAgentStatLogInterval";$/;"	f	class:TaildirSourceConfigurationConstants
+WRITE_POS_INTERVAL	TaildirSourceConfigurationConstants.java	/^  public static final String WRITE_POS_INTERVAL = "writePosInterval";$/;"	f	class:TaildirSourceConfigurationConstants
+addByteOffset	ReliableTaildirEventReader.java	/^    private boolean addByteOffset;$/;"	f	class:ReliableTaildirEventReader.Builder	file:
+addByteOffset	ReliableTaildirEventReader.java	/^    public Builder addByteOffset(boolean addByteOffset) {$/;"	m	class:ReliableTaildirEventReader.Builder
+addByteOffset	ReliableTaildirEventReader.java	/^  private boolean addByteOffset;$/;"	f	class:ReliableTaildirEventReader	file:
+agentStatLogName	TaildirSource.java	/^  private String agentStatLogName;$/;"	f	class:TaildirSource	file:
+agentStatLogSwitchInterval	TaildirSource.java	/^  private Integer agentStatLogSwitchInterval;$/;"	f	class:TaildirSource	file:
+annotateFileName	ReliableTaildirEventReader.java	/^    private Boolean annotateFileName =$/;"	f	class:ReliableTaildirEventReader.Builder	file:
+annotateFileName	ReliableTaildirEventReader.java	/^    public Builder annotateFileName(boolean annotateFileName) {$/;"	m	class:ReliableTaildirEventReader.Builder
+annotateFileName	ReliableTaildirEventReader.java	/^  private final boolean annotateFileName;$/;"	f	class:ReliableTaildirEventReader	file:
+archiveFile	TailFilePlugin.java	/^	private static void archiveFile(String sourcePath, String targzPath) {$/;"	m	class:TailFilePlugin	file:
+archiveMultiFiles	TailFilePlugin.java	/^	private static void archiveMultiFiles(List<File> fileLists , String targzPath) {$/;"	m	class:TailFilePlugin	file:
+archiveSentDirInterval	TaildirSource.java	/^  private Integer archiveSentDirInterval;$/;"	f	class:TaildirSource	file:
+archiveSentFileRegular	TailFilePlugin.java	/^	public static void archiveSentFileRegular(String sourcePath,	$/;"	m	class:TailFilePlugin
+backoffSleepIncrement	TaildirSource.java	/^  private Long backoffSleepIncrement;$/;"	f	class:TaildirSource	file:
+batchSize	TaildirSource.java	/^  private int batchSize;$/;"	f	class:TaildirSource	file:
+buffer	TailFile.java	/^  private byte[] buffer;$/;"	f	class:TailFile	file:
+bufferPos	TailFile.java	/^  private int bufferPos;$/;"	f	class:TailFile	file:
+build	ReliableTaildirEventReader.java	/^    public ReliableTaildirEventReader build() throws IOException {$/;"	m	class:ReliableTaildirEventReader.Builder
+byteOffsetHeader	TaildirSource.java	/^  private boolean byteOffsetHeader;$/;"	f	class:TaildirSource	file:
+cachePatternMatching	ReliableTaildirEventReader.java	/^    private boolean cachePatternMatching;$/;"	f	class:ReliableTaildirEventReader.Builder	file:
+cachePatternMatching	ReliableTaildirEventReader.java	/^    public Builder cachePatternMatching(boolean cachePatternMatching) {$/;"	m	class:ReliableTaildirEventReader.Builder
+cachePatternMatching	ReliableTaildirEventReader.java	/^  private boolean cachePatternMatching;$/;"	f	class:ReliableTaildirEventReader	file:
+cachePatternMatching	TaildirMatcher.java	/^  private final boolean cachePatternMatching;$/;"	f	class:TaildirMatcher	file:
+cachePatternMatching	TaildirSource.java	/^  private boolean cachePatternMatching;$/;"	f	class:TaildirSource	file:
+checkIdleInterval	TaildirSource.java	/^  private int checkIdleInterval = 5000;$/;"	f	class:TaildirSource	file:
+close	ReliableTaildirEventReader.java	/^  public void close() throws IOException {$/;"	m	class:ReliableTaildirEventReader
+close	TailFile.java	/^  public void close() {$/;"	m	class:TailFile
+closeTailFiles	TaildirSource.java	/^  private void closeTailFiles() throws IOException, InterruptedException {$/;"	m	class:TaildirSource	file:
+com.taomee.tms.flume.source	ReliableTaildirEventReader.java	/^package com.taomee.tms.flume.source;$/;"	p
+com.taomee.tms.flume.source	TailFile.java	/^package com.taomee.tms.flume.source;$/;"	p
+com.taomee.tms.flume.source	TailFileCron.java	/^package com.taomee.tms.flume.source;$/;"	p
+com.taomee.tms.flume.source	TailFilePlugin.java	/^package com.taomee.tms.flume.source;$/;"	p
+com.taomee.tms.flume.source	TaildirMatcher.java	/^package com.taomee.tms.flume.source;$/;"	p
+com.taomee.tms.flume.source	TaildirSource.java	/^package com.taomee.tms.flume.source;$/;"	p
+com.taomee.tms.flume.source	TaildirSourceConfigurationConstants.java	/^package com.taomee.tms.flume.source;$/;"	p
+commit	ReliableTaildirEventReader.java	/^  public void commit() throws IOException {$/;"	m	class:ReliableTaildirEventReader
+committed	ReliableTaildirEventReader.java	/^  private boolean committed = true;$/;"	f	class:ReliableTaildirEventReader	file:
+concatByteArrays	TailFile.java	/^  private byte[] concatByteArrays(byte[] a, int startIdxA, int lenA,$/;"	m	class:TailFile	file:
+configure	TaildirSource.java	/^  public synchronized void configure(Context context) {$/;"	m	class:TaildirSource
+createDirIfNotExists	TailFilePlugin.java	/^	private static boolean createDirIfNotExists(String destDirName) {$/;"	m	class:TailFilePlugin	file:
+currentFile	ReliableTaildirEventReader.java	/^  private TailFile currentFile = null;$/;"	f	class:ReliableTaildirEventReader	file:
+deletePath	TailFilePlugin.java	/^	private static void deletePath(String path) {$/;"	m	class:TailFilePlugin	file:
+deleteSentDirInterval	TaildirSource.java	/^  private Integer deleteSentDirInterval;$/;"	f	class:TaildirSource	file:
+dispatchCron	TailFileCron.java	/^	public static void dispatchCron(String sourcePath, $/;"	m	class:TailFileCron
+equals	TaildirMatcher.java	/^  public boolean equals(Object o) {$/;"	m	class:TaildirMatcher
+existingInodes	TaildirSource.java	/^  private List<Long> existingInodes = new CopyOnWriteArrayList<Long>();$/;"	f	class:TaildirSource	file:
+fileFilter	TaildirMatcher.java	/^  private final DirectoryStream.Filter<Path> fileFilter;$/;"	f	class:TaildirMatcher	file:
+fileGroup	TaildirMatcher.java	/^  private final String fileGroup;$/;"	f	class:TaildirMatcher	file:
+fileHeader	TaildirSource.java	/^  private boolean fileHeader;$/;"	f	class:TaildirSource	file:
+fileHeaderKey	TaildirSource.java	/^  private String fileHeaderKey;$/;"	f	class:TaildirSource	file:
+fileNameHeader	ReliableTaildirEventReader.java	/^    private String fileNameHeader =$/;"	f	class:ReliableTaildirEventReader.Builder	file:
+fileNameHeader	ReliableTaildirEventReader.java	/^    public Builder fileNameHeader(String fileNameHeader) {$/;"	m	class:ReliableTaildirEventReader.Builder
+fileNameHeader	ReliableTaildirEventReader.java	/^  private final String fileNameHeader;$/;"	f	class:ReliableTaildirEventReader	file:
+filePaths	ReliableTaildirEventReader.java	/^    private Map<String, String> filePaths;$/;"	f	class:ReliableTaildirEventReader.Builder	file:
+filePaths	ReliableTaildirEventReader.java	/^    public Builder filePaths(Map<String, String> filePaths) {$/;"	m	class:ReliableTaildirEventReader.Builder
+filePaths	TaildirSource.java	/^  private Map<String, String> filePaths;$/;"	f	class:TaildirSource	file:
+filePattern	TaildirMatcher.java	/^  private final String filePattern;$/;"	f	class:TaildirMatcher	file:
+fileSwitchInterval	TaildirSource.java	/^  private Integer   fileSwitchInterval;$/;"	f	class:TaildirSource	file:
+flumeLogPath	TaildirSource.java	/^  private String  flumeLogPath;$/;"	f	class:TaildirSource	file:
+getBackOffSleepIncrement	TaildirSource.java	/^  public long getBackOffSleepIncrement() {$/;"	m	class:TaildirSource
+getFileGroup	TaildirMatcher.java	/^  public String getFileGroup() {$/;"	m	class:TaildirMatcher
+getHeaders	TailFile.java	/^  public Map<String, String> getHeaders() {$/;"	m	class:TailFile
+getInode	ReliableTaildirEventReader.java	/^  private long getInode(File file) throws IOException {$/;"	m	class:ReliableTaildirEventReader	file:
+getInode	TailFile.java	/^  public long getInode() {$/;"	m	class:TailFile
+getLastUpdated	TailFile.java	/^  public long getLastUpdated() {$/;"	m	class:TailFile
+getLineReadPos	TailFile.java	/^  public long getLineReadPos() {$/;"	m	class:TailFile
+getLocalIp	TailFilePlugin.java	/^	private static String getLocalIp() throws SocketException {$/;"	m	class:TailFilePlugin	file:
+getMatchingFiles	TaildirMatcher.java	/^  List<File> getMatchingFiles() {$/;"	m	class:TaildirMatcher
+getMatchingFilesNoCache	TaildirMatcher.java	/^  private List<File> getMatchingFilesNoCache() {$/;"	m	class:TaildirMatcher	file:
+getMaxBackOffSleepInterval	TaildirSource.java	/^  public long getMaxBackOffSleepInterval() {$/;"	m	class:TaildirSource
+getPath	TailFile.java	/^  public String getPath() {$/;"	m	class:TailFile
+getPos	TailFile.java	/^  public long getPos() {$/;"	m	class:TailFile
+getRaf	TailFile.java	/^  public RandomAccessFile getRaf() {$/;"	m	class:TailFile
+getSourceCounter	TaildirSource.java	/^  protected SourceCounter getSourceCounter() {$/;"	m	class:TaildirSource
+getTable	TaildirSource.java	/^  private Table<String, String, String> getTable(Context context, String prefix) {$/;"	m	class:TaildirSource	file:
+getTailFiles	ReliableTaildirEventReader.java	/^  public Map<Long, TailFile> getTailFiles() {$/;"	m	class:ReliableTaildirEventReader
+hashCode	TaildirMatcher.java	/^  public int hashCode() {$/;"	m	class:TaildirMatcher
+headerTable	ReliableTaildirEventReader.java	/^    private Table<String, String, String> headerTable;$/;"	f	class:ReliableTaildirEventReader.Builder	file:
+headerTable	ReliableTaildirEventReader.java	/^    public Builder headerTable(Table<String, String, String> headerTable) {$/;"	m	class:ReliableTaildirEventReader.Builder
+headerTable	ReliableTaildirEventReader.java	/^  private final Table<String, String, String> headerTable;$/;"	f	class:ReliableTaildirEventReader	file:
+headerTable	TaildirSource.java	/^  private Table<String, String, String> headerTable;$/;"	f	class:TaildirSource	file:
+headers	TailFile.java	/^  private final Map<String, String> headers;$/;"	f	class:TailFile	file:
+idleFileChecker	TaildirSource.java	/^  private ScheduledExecutorService idleFileChecker;$/;"	f	class:TaildirSource	file:
+idleFileCheckerRunnable	TaildirSource.java	/^  private class idleFileCheckerRunnable implements Runnable {$/;"	c	class:TaildirSource
+idleInodes	TaildirSource.java	/^  private List<Long> idleInodes = new CopyOnWriteArrayList<Long>();$/;"	f	class:TaildirSource	file:
+idleTimeout	TaildirSource.java	/^  private int idleTimeout;$/;"	f	class:TaildirSource	file:
+inode	TailFile.java	/^  private final long inode;$/;"	f	class:TailFile	file:
+isWindowsOs	TailFilePlugin.java	/^	private static boolean isWindowsOs() {$/;"	m	class:TailFilePlugin	file:
+lastCheckedTime	TaildirMatcher.java	/^  private long lastCheckedTime = -1;$/;"	f	class:TaildirMatcher	file:
+lastMatchedFiles	TaildirMatcher.java	/^  private List<File> lastMatchedFiles = Lists.newArrayList();$/;"	f	class:TaildirMatcher	file:
+lastSeenParentDirMTime	TaildirMatcher.java	/^  private long lastSeenParentDirMTime = -1;$/;"	f	class:TaildirMatcher	file:
+lastUpdated	TailFile.java	/^  private long lastUpdated;$/;"	f	class:TailFile	file:
+line	TailFile.java	/^    final byte[] line;$/;"	f	class:TailFile.LineResult
+lineReadPos	TailFile.java	/^  private long lineReadPos;$/;"	f	class:TailFile	file:
+lineSepInclude	TailFile.java	/^    final boolean lineSepInclude;$/;"	f	class:TailFile.LineResult
+loadPositionFile	ReliableTaildirEventReader.java	/^  public void loadPositionFile(String filePath) {$/;"	m	class:ReliableTaildirEventReader
+logger	ReliableTaildirEventReader.java	/^  private static final Logger logger = LoggerFactory.getLogger(ReliableTaildirEventReader.class);$/;"	f	class:ReliableTaildirEventReader	file:
+logger	TailFile.java	/^  private static final Logger logger = LoggerFactory.getLogger(TailFile.class);$/;"	f	class:TailFile	file:
+logger	TailFilePlugin.java	/^	private static final Logger logger = LoggerFactory.getLogger(TaildirSource.class);$/;"	f	class:TailFilePlugin	file:
+logger	TaildirMatcher.java	/^  private static final Logger logger = LoggerFactory.getLogger(TaildirMatcher.class);$/;"	f	class:TaildirMatcher	file:
+logger	TaildirSource.java	/^  private static final Logger logger = LoggerFactory.getLogger(TaildirSource.class);$/;"	f	class:TaildirSource	file:
+maxBackOffSleepInterval	TaildirSource.java	/^  private Long maxBackOffSleepInterval;$/;"	f	class:TaildirSource	file:
+maxRetryInterval	TaildirSource.java	/^  private int maxRetryInterval = 5000;$/;"	f	class:TaildirSource	file:
+moveFileWhenFinished	TailFileCron.java	/^	public static void moveFileWhenFinished(String oldFilePath, String newFilePath) {$/;"	m	class:TailFileCron
+moveFileWhenFinished	TailFilePlugin.java	/^	public static void moveFileWhenFinished(String oldFilePath,$/;"	m	class:TailFilePlugin
+needTail	TailFile.java	/^  private boolean needTail;$/;"	f	class:TailFile	file:
+needTail	TailFile.java	/^  public boolean needTail() {$/;"	m	class:TailFile
+oldBuffer	TailFile.java	/^  private byte[] oldBuffer;$/;"	f	class:TailFile	file:
+openFile	ReliableTaildirEventReader.java	/^  private TailFile openFile(File file, Map<String, String> headers, long inode, long pos) {$/;"	m	class:ReliableTaildirEventReader	file:
+parentDir	TaildirMatcher.java	/^  private final File parentDir;$/;"	f	class:TaildirMatcher	file:
+path	TailFile.java	/^  private final String path;$/;"	f	class:TailFile	file:
+pluginExecutor	TaildirSource.java	/^  private ScheduledExecutorService pluginExecutor;$/;"	f	class:TaildirSource	file:
+pos	TailFile.java	/^  private long pos;$/;"	f	class:TailFile	file:
+positionFilePath	ReliableTaildirEventReader.java	/^    private String positionFilePath;$/;"	f	class:ReliableTaildirEventReader.Builder	file:
+positionFilePath	ReliableTaildirEventReader.java	/^    public Builder positionFilePath(String positionFilePath) {$/;"	m	class:ReliableTaildirEventReader.Builder
+positionFilePath	TaildirSource.java	/^  private String positionFilePath;$/;"	f	class:TaildirSource	file:
+positionWriter	TaildirSource.java	/^  private ScheduledExecutorService positionWriter;$/;"	f	class:TaildirSource	file:
+process	TaildirSource.java	/^  public Status process() {$/;"	m	class:TaildirSource
+processSentFiles	TaildirSource.java	/^  private void processSentFiles(TailFile tf) {$/;"	m	class:TaildirSource	file:
+raf	TailFile.java	/^  private RandomAccessFile raf;$/;"	f	class:TailFile	file:
+readEvent	ReliableTaildirEventReader.java	/^  public Event readEvent() throws IOException {$/;"	m	class:ReliableTaildirEventReader
+readEvent	TailFile.java	/^  private Event readEvent(boolean backoffWithoutNL, boolean addByteOffset) throws IOException {$/;"	m	class:TailFile	file:
+readEvents	ReliableTaildirEventReader.java	/^  public List<Event> readEvents(TailFile tf, int numEvents) throws IOException {$/;"	m	class:ReliableTaildirEventReader
+readEvents	ReliableTaildirEventReader.java	/^  public List<Event> readEvents(int numEvents) throws IOException {$/;"	m	class:ReliableTaildirEventReader
+readEvents	ReliableTaildirEventReader.java	/^  public List<Event> readEvents(int numEvents, boolean backoffWithoutNL)$/;"	m	class:ReliableTaildirEventReader
+readEvents	TailFile.java	/^  public List<Event> readEvents(int numEvents, boolean backoffWithoutNL,$/;"	m	class:TailFile
+readFile	TailFile.java	/^  private void readFile() throws IOException {$/;"	m	class:TailFile	file:
+readLine	TailFile.java	/^  public LineResult readLine() throws IOException {$/;"	m	class:TailFile
+reader	TaildirSource.java	/^  private ReliableTaildirEventReader reader;$/;"	f	class:TaildirSource	file:
+retryInterval	TaildirSource.java	/^  private int retryInterval = 1000;$/;"	f	class:TaildirSource	file:
+run	TaildirSource.java	/^	public void run() {$/;"	m	class:TaildirSource.TailFilePluginRunnable
+run	TaildirSource.java	/^    public void run() {$/;"	m	class:TaildirSource.PositionWriterRunnable
+run	TaildirSource.java	/^    public void run() {$/;"	m	class:TaildirSource.idleFileCheckerRunnable
+selectByKeys	TaildirSource.java	/^  private Map<String, String> selectByKeys(Map<String, String> map, String[] keys) {$/;"	m	class:TaildirSource	file:
+setCurrentFile	ReliableTaildirEventReader.java	/^  public void setCurrentFile(TailFile currentFile) {$/;"	m	class:ReliableTaildirEventReader
+setLastUpdated	TailFile.java	/^  public void setLastUpdated(long lastUpdated) {$/;"	m	class:TailFile
+setLineReadPos	TailFile.java	/^  public void setLineReadPos(long lineReadPos) {$/;"	m	class:TailFile
+setNeedTail	TailFile.java	/^  public void setNeedTail(boolean needTail) {$/;"	m	class:TailFile
+setPos	TailFile.java	/^  public void setPos(long pos) {$/;"	m	class:TailFile
+skipToEnd	ReliableTaildirEventReader.java	/^    private boolean skipToEnd;$/;"	f	class:ReliableTaildirEventReader.Builder	file:
+skipToEnd	ReliableTaildirEventReader.java	/^    public Builder skipToEnd(boolean skipToEnd) {$/;"	m	class:ReliableTaildirEventReader.Builder
+skipToEnd	TaildirSource.java	/^  private boolean skipToEnd;$/;"	f	class:TaildirSource	file:
+sortByLastModifiedTime	TaildirMatcher.java	/^  private static List<File> sortByLastModifiedTime(List<File> files) {$/;"	m	class:TaildirMatcher	file:
+sourceCounter	TaildirSource.java	/^  private SourceCounter sourceCounter;$/;"	f	class:TaildirSource	file:
+sourcePath	TaildirSource.java	/^  private String sourcePath;$/;"	f	class:TaildirSource	file:
+specialLogWriter	TaildirSource.java	/^  private ScheduledExecutorService specialLogWriter;$/;"	f	class:TaildirSource	file:
+start	TaildirSource.java	/^  public synchronized void start() {$/;"	m	class:TaildirSource
+stop	TaildirSource.java	/^  public synchronized void stop() {$/;"	m	class:TaildirSource
+tailFileProcess	TaildirSource.java	/^  private void tailFileProcess(TailFile tf, boolean backoffWithoutNL)$/;"	m	class:TaildirSource	file:
+tailFiles	ReliableTaildirEventReader.java	/^  private Map<Long, TailFile> tailFiles = Maps.newHashMap();$/;"	f	class:ReliableTaildirEventReader	file:
+taildirCache	ReliableTaildirEventReader.java	/^  private final List<TaildirMatcher> taildirCache;$/;"	f	class:ReliableTaildirEventReader	file:
+targetPath	TaildirSource.java	/^  private String targetPath;$/;"	f	class:TaildirSource	file:
+toPosInfoJson	TaildirSource.java	/^  private String toPosInfoJson() {$/;"	m	class:TaildirSource	file:
+toString	TaildirMatcher.java	/^  public String toString() {$/;"	m	class:TaildirMatcher
+toString	TaildirSource.java	/^  public String toString() {$/;"	m	class:TaildirSource
+updateFilePos	TailFile.java	/^  public void updateFilePos(long pos) throws IOException {$/;"	m	class:TailFile
+updatePos	TailFile.java	/^  public boolean updatePos(String path, long inode, long pos) throws IOException {$/;"	m	class:TailFile
+updateTailFiles	ReliableTaildirEventReader.java	/^  public List<Long> updateTailFiles() throws IOException {$/;"	m	class:ReliableTaildirEventReader
+updateTailFiles	ReliableTaildirEventReader.java	/^  public List<Long> updateTailFiles(boolean skipToEnd) throws IOException {$/;"	m	class:ReliableTaildirEventReader
+updateTime	ReliableTaildirEventReader.java	/^  private long updateTime;$/;"	f	class:ReliableTaildirEventReader	file:
+writeAgentStatLog	TailFilePlugin.java	/^	private static void writeAgentStatLog(String agentStatLogPathFull,$/;"	m	class:TailFilePlugin	file:
+writePosInitDelay	TaildirSource.java	/^  private int writePosInitDelay = 5000;$/;"	f	class:TaildirSource	file:
+writePosInterval	TaildirSource.java	/^  private int writePosInterval;$/;"	f	class:TaildirSource	file:
+writePosition	TaildirSource.java	/^  private void writePosition() {$/;"	m	class:TaildirSource	file:
+writeSpecialLog	TailFileCron.java	/^	public static void writeSpecialLog(String agentStatLogPath, String version) {$/;"	m	class:TailFileCron
+writeSpecialLog	TailFilePlugin.java	/^	public static void writeSpecialLog(String agentStatLogPath, String version) {$/;"	m	class:TailFilePlugin
